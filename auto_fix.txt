@@ -1,0 +1,3 @@
+Automated fix suggestion:
+
+error summary: cannot find symbol `appcontext` in the specified github repository, likely cause is a missing or misconfigured dependency, suggested fix: ensure that the required package containing `appcontext` is included correctly in the project and dependencies are up-to-date.
